@@ -20,3 +20,7 @@ links.forEach(link => {
         menuBtn.setAttribute("aria-expanded", "false");
     })
 })
+
+function Whatssapp() {
+    location.href = "https://wa.me/5217711310918"
+}

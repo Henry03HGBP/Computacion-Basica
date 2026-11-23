@@ -1,0 +1,14 @@
+
+.WhatsApp {
+    background: #25D366;
+    color: white;
+    padding: 15px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    text-decoration: none;
+    cursor: pointer;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
